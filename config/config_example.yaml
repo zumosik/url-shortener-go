@@ -1,0 +1,8 @@
+# Server configurations
+server:
+  port: 8000
+  log_level : "debug"
+
+# Database credentials
+database:
+  url: ""
